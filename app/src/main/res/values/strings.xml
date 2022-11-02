@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="dialog">Acesta e un mesaj</string>
+    <string name="mesaje">Unitatea Bluetooth nu este activata . Porniti Bluetooth si lansati programul din nou.</string>
+</resources>
